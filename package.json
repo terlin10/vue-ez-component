@@ -1,6 +1,7 @@
 {
   "name": "vue-ez-component",
   "description": "many vue components.",
+  "repository": "https://github.com/terlin10/vue-ez-component",
   "type": "module",
   "files": ["dist"],
   "main": "./dist/vue-ez-components.umd.js",
